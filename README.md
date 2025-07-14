@@ -1,2 +1,2 @@
 # xd-styleguide-template
-Source: https://psddd.co/adobe-xd-style-guide/
+Source: Tyler Wain (https://dribbble.com/shots/3510894-Free-Adobe-Xd-Styleguide)
